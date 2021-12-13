@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Buoi4_18DTHA5/app/src/main/res/layout/activity_frame_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Buoi4_18DTHA5/app/src/main/res/layout/activity_linear_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Buoi4_18DTHA5/app/src/main/res/layout/activity_list_view_advance_layout.xml" value="0.13072916666666667" />
+        <entry key="..\:/Buoi4_18DTHA5/app/src/main/res/layout/activity_list_view_basic1_layout.xml" value="0.13020833333333334" />
+        <entry key="..\:/Buoi4_18DTHA5/app/src/main/res/layout/activity_list_view_basic2_layout.xml" value="0.13072916666666667" />
+        <entry key="..\:/Buoi4_18DTHA5/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Buoi4_18DTHA5/app/src/main/res/layout/activity_ralative_layout.xml" value="0.264" />
+        <entry key="..\:/Buoi4_18DTHA5/app/src/main/res/layout/activity_table_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Buoi4_18DTHA5/app/src/main/res/layout/studentitem.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/ASUS/Documents/Zalo Received Files/Buoi4_18DTHA5/Buoi4_18DTHA5/app/src/main/res/drawable/background_image.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/ASUS/Documents/Zalo Received Files/Buoi4_18DTHA5/Buoi4_18DTHA5/app/src/main/res/drawable/background_image2.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/ASUS/Documents/Zalo Received Files/Buoi4_18DTHA5/Buoi4_18DTHA5/app/src/main/res/layout/activity_detail.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/ASUS/Documents/Zalo Received Files/Buoi4_18DTHA5/Buoi4_18DTHA5/app/src/main/res/layout/activity_list_view_advance_layout.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/ASUS/Documents/Zalo Received Files/Buoi4_18DTHA5/Buoi4_18DTHA5/app/src/main/res/layout/studentitem.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

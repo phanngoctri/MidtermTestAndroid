@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/btnLinear"
+        android:onClick="GoToLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go To LinearLayout" />
+    <Button
+        android:id="@+id/btnRelativeLayout"
+        android:onClick="GoToRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go To RelativeLayout" />
+    <Button
+        android:id="@+id/btnframeLayout"
+        android:onClick="GoToFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go To FrameLayout" />
+    <Button
+        android:id="@+id/btnTableLayout"
+        android:onClick="GoToTableLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go To TableLayout" />
+    <Button
+        android:id="@+id/btnListViewBasic1"
+        android:onClick="GoToListViewBasic1Layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go To ListViewBasic1" />
+    <Button
+        android:id="@+id/btnListViewBasic2"
+        android:onClick="GoToListViewBasic2Layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go To ListViewBasic2" />
+    <Button
+        android:id="@+id/btnListViewAdvance"
+        android:onClick="GoToListViewAdvanceLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go To ListViewAdvance" />
+</LinearLayout>
